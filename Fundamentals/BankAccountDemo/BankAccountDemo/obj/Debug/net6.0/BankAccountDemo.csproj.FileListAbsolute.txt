@@ -1,0 +1,15 @@
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\bin\Debug\net6.0\BankAccountDemo.exe
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\bin\Debug\net6.0\BankAccountDemo.deps.json
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\bin\Debug\net6.0\BankAccountDemo.runtimeconfig.json
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\bin\Debug\net6.0\BankAccountDemo.dll
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\bin\Debug\net6.0\BankAccountDemo.pdb
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.csproj.AssemblyReference.cache
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.AssemblyInfoInputs.cache
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.AssemblyInfo.cs
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.csproj.CoreCompileInputs.cache
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.dll
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\refint\BankAccountDemo.dll
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.pdb
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\BankAccountDemo.genruntimeconfig.cache
+D:\Programs\NUnit_Tests\QA\Fundamentals\BankAccountDemo\BankAccountDemo\obj\Debug\net6.0\ref\BankAccountDemo.dll

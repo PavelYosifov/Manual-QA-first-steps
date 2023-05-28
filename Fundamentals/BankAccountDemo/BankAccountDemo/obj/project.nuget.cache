@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+QgJ8Iiboq8eWT3HB5E+cXK6xCWhZqah07/mLDVugy/dNAv4DTehro7ziMqfxi7YlZF4+fgAMiGgpQYbol5rHg==",
+  "dgSpecHash": "niuwwH54pvag8xCW7gwTV7obSuG6egzB4yIvO1MtrgFZoWr/M6xI1Ro9cK4b9vSqTjjIAT79oHMCXuGIECmjzw==",
   "success": true,
-  "projectFilePath": "D:\\Programs\\NUnit_Tests\\BankAccountDemo\\BankAccountDemo\\BankAccountDemo.csproj",
+  "projectFilePath": "D:\\Programs\\NUnit_Tests\\QA\\Fundamentals\\BankAccountDemo\\BankAccountDemo\\BankAccountDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
