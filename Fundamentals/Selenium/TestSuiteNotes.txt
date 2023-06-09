@@ -1,3 +1,7 @@
+First exercise with Selenium. The task will be done on Google Chrome.
+Tested website- softuni.bg, Login page:
+
+Test cases:
 TC1- Test without password
 TC2- Test without username
 TC3- Test with wrong password
