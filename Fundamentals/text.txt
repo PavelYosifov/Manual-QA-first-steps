@@ -1,2 +1,1 @@
-Welcome, here you will find my fist programs with C#. In this repository you will find how I managed to learn the basics of C# with the help of SoftUni.
-With this preparation in the end I managed to grab a diploma for C# basics from SoftUni with ease.
+Welcome, here you will find my fist steps towards learning the fundamentals of Manual testing . In this repository you will find how I managed to learn the fundamentals of Manual testing with the help of SoftUni.
